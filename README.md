@@ -30,7 +30,7 @@ A modular intelligent robotic platform built around an ESP32-WROOM-32, driving f
 `STM32F103C8T6` `nRF24L01` `DRV8833` `Python (pymavlink)`
 Low-cost embedded UAV-UGV communication pipeline converting real-time MAVLink drone attitude telemetry into autonomous rover motion commands. Five-stage architecture: Mission Planner SITL → Python (pymavlink) → STM32 → nRF24L01 → DRV8833. Deterministic command-mapping algorithm with ±5° dead zone, firmware-level payload validation to reject noise-induced false actuation.
 
-### [Dual-Path FPGA-Based Image Processing System](#)
+### [Dual-Path FPGA-Based Image Processing System](https://github.com/harshinijec24/dualpath-fpga-image-processing)
 `Verilog HDL (RTL)` `Vivado` `Python` `OpenCV`
 Dual-path FPGA architecture balancing accuracy and hardware efficiency for real-time edge AI. Hand-coded RTL Verilog 3×3 convolution + ReLU for CNN-based feature extraction, alongside a lightweight pixel-difference/threshold inference pipeline for low-latency binary outputs. Python-based pre/post-processing validated via Vivado simulation and testbenches.
 
