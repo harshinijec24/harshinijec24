@@ -4,7 +4,6 @@ ECE undergrad at RV College of Engineering, Bangalore, building at the intersect
 
 -  Currently working on **RUDRAN** — a modular 4-wheel differential drive robotic platform with TinyML voice control and autonomous navigation
 -  Exploring FPGA-based DSP/edge-AI pipelines and wireless embedded communication
--  Comfortable across the stack: RTL design → firmware → Python tooling → CAD
 -  Reach me at **kumarharshini13@gmail.com** | [LinkedIn](https://www.linkedin.com/in/harshinijayakumar-215216319)
 
 ---
@@ -15,7 +14,7 @@ ECE undergrad at RV College of Engineering, Bangalore, building at the intersect
 **HDL & FPGA Tools:** Verilog, VHDL, Xilinx Vivado
 **Programming:** Python, SQL
 **Libraries & Frameworks:** scikit-learn, Flask, Scapy, OpenCV, pandas, matplotlib, Tkinter, pymavlink
-**Tools:** ImageJ, LTSpice, KiCad, SolidWorks, Mission Planner, MS Office
+**Tools:** ImageJ, LTSpice, KiCad, SolidWorks, Mission Planner
 **Domains:** Embedded Systems, FPGA/DSP Design, Robotics, Analog Circuit Design, Wireless Security, Machine Learning
 
 ---
