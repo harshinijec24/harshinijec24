@@ -1,15 +1,15 @@
-# Hi, I'm Harshini 👋
+# Hi, I'm Harshini 
 
 ECE undergrad at RV College of Engineering, Bangalore, building at the intersection of embedded systems, robotics, and signal processing.
 
-- 🔭 Currently working on **RUDRAN** — a modular 4-wheel differential drive robotic platform with TinyML voice control and autonomous navigation
-- 🌱 Exploring FPGA-based DSP/edge-AI pipelines and wireless embedded communication
-- 🛠️ Comfortable across the stack: RTL design → firmware → Python tooling → CAD
-- 📫 Reach me at **kumarharshini13@gmail.com** | [LinkedIn](https://www.linkedin.com/in/harshinijayakumar-215216319)
+-  Currently working on **RUDRAN** — a modular 4-wheel differential drive robotic platform with TinyML voice control and autonomous navigation
+-  Exploring FPGA-based DSP/edge-AI pipelines and wireless embedded communication
+-  Comfortable across the stack: RTL design → firmware → Python tooling → CAD
+-  Reach me at **kumarharshini13@gmail.com** | [LinkedIn](https://www.linkedin.com/in/harshinijayakumar-215216319)
 
 ---
 
-## 🧰 Technical Skills
+##  Technical Skills
 
 **Hardware & Embedded Systems:** Raspberry Pi 3, FPGA, Arduino, PYNQ (Zynq-7000), STM32, ESP32
 **HDL & FPGA Tools:** Verilog, VHDL, Xilinx Vivado
@@ -20,11 +20,7 @@ ECE undergrad at RV College of Engineering, Bangalore, building at the intersect
 
 ---
 
-## 🚀 Projects
-
-### [RUDRAN — Modular 4-Wheel Differential Drive Robotic Platform](#)
-`ESP32` `TinyML` `L298N` `Embedded Systems` `Autonomous Navigation`
-A modular intelligent robotic platform built around an ESP32-WROOM-32, driving four TT DC motors via a single L298N for differential steering. Supports both Manual (RC) and Autonomous modes, selectable via TinyML voice keyword spotting, a Wi-Fi dashboard, or a physical backup switch. Autonomous mode uses an HC-SR04 ultrasonic sensor and dual IR sensors for real-time obstacle detection and path selection. Implements a hierarchical safety-first control architecture where obstacle avoidance always overrides manual/voice commands. Custom 3D-printed chassis on a 2S Li-ion + BMS power system. Designed as Phase 1 of a scalable platform, with RUDRAN Mk-II planned to add onboard vision and person classification without any mechanical redesign.
+##  Projects
 
 ### [Connected Drone-Rover Surveillance System using MAVLink](#)
 `STM32F103C8T6` `nRF24L01` `DRV8833` `Python (pymavlink)`
@@ -68,7 +64,7 @@ Supervised and clustering models for data-driven player evaluation, deployed as 
 
 ---
 
-## 🏆 Certifications & Achievements
+##  Certifications & Achievements
 
 - 🥉 3rd Place — Line Follower Bot, Ascent (Builders TechFest, Scaler School of Technology), May 2026
 - Embedded System Design with ARM — NPTEL, IIT Kharagpur (Jan–Mar 2025)
@@ -78,11 +74,11 @@ Supervised and clustering models for data-driven player evaluation, deployed as 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshinijec24&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshinijec24&layout=compact&hide_border=true)
 
 ---
 
-📫 **kumarharshini13@gmail.com** · [LinkedIn](https://www.linkedin.com/in/harshinijayakumar-215216319)
+ **kumarharshini13@gmail.com** · [LinkedIn](https://www.linkedin.com/in/harshinijayakumar-215216319)
